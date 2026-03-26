@@ -63,5 +63,4 @@ int main(){
 		cout << "½âÑ¹³É¹¦" << endl;
 		return 0;
 	}
-
 }
